@@ -1,0 +1,3295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meshphone>
+   <administration>
+      <author>N2MH</author>
+      <copyright>Copyright+%28c%29+2022+by+Mark+Herson%2C+N2MH</copyright>
+      <created>2022-12-07 08:30:02 +0000</created>
+   </administration>
+
+   <dialplan>
+      <network_start>131-2165</network_start>
+      <network_end>131-2165</network_end>
+      <local_start>2165</local_start>
+      <local_end>2165</local_end>
+      <serving_office>97321</serving_office>
+      <translation> 1312165</translation>
+      <recno>1</recno>
+      <last_upd>2018-12-01 01:17:00</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>131-6300</network_start>
+      <network_end>131-6399</network_end>
+      <local_start>6300</local_start>
+      <local_end>6399</local_end>
+      <serving_office>13163</serving_office>
+      <translation>_13163xx</translation>
+      <recno>2</recno>
+      <last_upd>2018-12-01 01:18:00</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>164-2276</network_start>
+      <network_end>164-2279</network_end>
+      <local_start>952276</local_start>
+      <local_end>952279</local_end>
+      <serving_office>16464</serving_office>
+      <translation>_164227[6789]</translation>
+      <recno>6</recno>
+      <last_upd>2018-12-01 01:43:13</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>164-4350</network_start>
+      <network_end>164-4350</network_end>
+      <local_start>954350</local_start>
+      <local_end>954350</local_end>
+      <serving_office>16464</serving_office>
+      <translation> 1644350</translation>
+      <recno>7</recno>
+      <last_upd>2018-12-01 01:44:37</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>164-6400</network_start>
+      <network_end>164-6499</network_end>
+      <local_start>6400</local_start>
+      <local_end>6499</local_end>
+      <serving_office>16464</serving_office>
+      <translation>_16464xx</translation>
+      <recno>8</recno>
+      <last_upd>2018-12-01 01:47:41</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>201-2137</network_start>
+      <network_end>201-2138</network_end>
+      <local_start>2137</local_start>
+      <local_end>2138</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_201213[78]</translation>
+      <recno>10</recno>
+      <last_upd>2018-12-01 01:53:01</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>201-2166</network_start>
+      <network_end>201-2167</network_end>
+      <local_start>2166</local_start>
+      <local_end>2167</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_201216[67]</translation>
+      <recno>11</recno>
+      <last_upd>2018-12-01 01:54:19</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>204-4400</network_start>
+      <network_end>204-4499</network_end>
+      <local_start>4400</local_start>
+      <local_end>4499</local_end>
+      <serving_office>40351</serving_office>
+      <translation>_20444xx</translation>
+      <recno>11</recno>
+      <last_upd>2018-12-01 01:54:19</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>204-4600</network_start>
+      <network_end>204-4699</network_end>
+      <local_start>4600</local_start>
+      <local_end>4699</local_end>
+      <serving_office>40351</serving_office>
+      <translation>_20450xx</translation>
+      <recno>11</recno>
+      <last_upd>2018-12-01 01:54:19</last_upd>
+   </dialplan>
+   
+   <dialplan>
+      <network_start>403-5000</network_start>
+      <network_end>403-5199</network_end>
+      <local_start>5000</local_start>
+      <local_end>5199</local_end>
+      <serving_office>40351</serving_office>
+      <translation>_4035[01]xx</translation>
+      <recno>14</recno>
+      <last_upd>2018-12-01 02:26:11</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>423-3700</network_start>
+      <network_end>423-3799</network_end>
+      <local_start>3700</local_start>
+      <local_end>3799</local_end>
+      <serving_office>61534</serving_office>
+      <translation>_42337xx</translation>
+      <recno>15</recno>
+      <last_upd>2018-12-01 02:27:13</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>423-3900</network_start>
+      <network_end>423-3999</network_end>
+      <local_start>3900</local_start>
+      <local_end>3999</local_end>
+      <serving_office>61534</serving_office>
+      <translation>_42339xx</translation>
+      <recno>16</recno>
+      <last_upd>2018-12-01 02:28:12</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>533-2400</network_start>
+      <network_end>533-2499</network_end>
+      <local_start>2400</local_start>
+      <local_end>2499</local_end>
+      <serving_office>53324</serving_office>
+      <translation>_53324xx</translation>
+      <recno>17</recno>
+      <last_upd>2019-04-18 09:40:58</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>533-9100</network_start>
+      <network_end>533-9199</network_end>
+      <local_start>9100</local_start>
+      <local_end>9199</local_end>
+      <serving_office>53391</serving_office>
+      <translation>_53391xx</translation>
+      <recno>19</recno>
+      <last_upd>2018-12-01 02:31:31</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>615-2141</network_start>
+      <network_end>615-2144</network_end>
+      <local_start>2141</local_start>
+      <local_end>2144</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_615214[1234]</translation>
+      <recno>21</recno>
+      <last_upd>2018-12-01 02:34:36</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>615-2146</network_start>
+      <network_end>615-2149</network_end>
+      <local_start>2146</local_start>
+      <local_end>2149</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_615214[6789]</translation>
+      <recno>22</recno>
+      <last_upd>2018-12-01 02:35:39</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>615-2170</network_start>
+      <network_end>615-2171</network_end>
+      <local_start>2170</local_start>
+      <local_end>2171</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_615217[01]</translation>
+      <recno>23</recno>
+      <last_upd>2018-12-01 02:36:36</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>615-2174</network_start>
+      <network_end>615-2175</network_end>
+      <local_start>2174</local_start>
+      <local_end>2175</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_615217[45]</translation>
+      <recno>24</recno>
+      <last_upd>2018-12-01 02:37:41</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>615-2177</network_start>
+      <network_end>615-2177</network_end>
+      <local_start>2177</local_start>
+      <local_end>2177</local_end>
+      <serving_office>97321</serving_office>
+      <translation> 6152177</translation>
+      <recno>25</recno>
+      <last_upd>2018-12-01 02:38:35</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>615-2179</network_start>
+      <network_end>615-2179</network_end>
+      <local_start>2179</local_start>
+      <local_end>2179</local_end>
+      <serving_office>97321</serving_office>
+      <translation> 6152179</translation>
+      <recno>26</recno>
+      <last_upd>2018-12-01 02:39:53</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>615-2182</network_start>
+      <network_end>615-2186</network_end>
+      <local_start>2182</local_start>
+      <local_end>2186</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_615218[23456]</translation>
+      <recno>27</recno>
+      <last_upd>2018-12-01 02:40:52</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>615-3400</network_start>
+      <network_end>615-3599</network_end>
+      <local_start>3400</local_start>
+      <local_end>3599</local_end>
+      <serving_office>61534</serving_office>
+      <translation>_6153[45]xx</translation>
+      <recno>28</recno>
+      <last_upd>2018-12-01 02:42:02</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>629-3400</network_start>
+      <network_end>629-3599</network_end>
+      <local_start>3400</local_start>
+      <local_end>3599</local_end>
+      <serving_office>61534</serving_office>
+      <translation>_6293[45]xx</translation>
+      <recno>29</recno>
+      <last_upd>2018-12-01 04:25:46</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>631-2150</network_start>
+      <network_end>631-2154</network_end>
+      <local_start>2150</local_start>
+      <local_end>2154</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_615215[01234]</translation>
+      <recno>30</recno>
+      <last_upd>2018-12-01 04:26:49</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>731-2145</network_start>
+      <network_end>731-2145</network_end>
+      <local_start>2145</local_start>
+      <local_end>2145</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_7312145</translation>
+      <recno>31</recno>
+      <last_upd>2018-12-01 04:27:47</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>731-3200</network_start>
+      <network_end>731-3299</network_end>
+      <local_start>3200</local_start>
+      <local_end>3299</local_end>
+      <serving_office>61534</serving_office>
+      <translation>_73132xx</translation>
+      <recno>32</recno>
+      <last_upd>2018-12-01 04:32:06</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>865-2172</network_start>
+      <network_end>865-2173</network_end>
+      <local_start>2172</local_start>
+      <local_end>2173</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_865217[23]</translation>
+      <recno>33</recno>
+      <last_upd>2018-12-01 06:39:08</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>865-3800</network_start>
+      <network_end>865-3899</network_end>
+      <local_start>3800</local_start>
+      <local_end>3899</local_end>
+      <serving_office>61534</serving_office>
+      <translation>_86538xx</translation>
+      <recno>34</recno>
+      <last_upd>2018-12-01 06:40:29</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>901-3000</network_start>
+      <network_end>901-3199</network_end>
+      <local_start>3000</local_start>
+      <local_end>3199</local_end>
+      <serving_office>61534</serving_office>
+      <translation>_9013[01]xx</translation>
+      <recno>35</recno>
+      <last_upd>2018-12-01 06:41:37</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>908-2132</network_start>
+      <network_end>908-2132</network_end>
+      <local_start>2132</local_start>
+      <local_end>2132</local_end>
+      <serving_office>97321</serving_office>
+      <translation> 9082132</translation>
+      <recno>36</recno>
+      <last_upd>2018-12-01 06:42:37</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>909-6000</network_start>
+      <network_end>909-7999</network_end>
+      <local_start>6000</local_start>
+      <local_end>7999</local_end>
+      <serving_office>90960</serving_office>
+      <translation>_909[67]xxx</translation>
+      <recno>37</recno>
+      <last_upd>2018-12-01 06:43:43</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>910-4100</network_start>
+      <network_end>909-4199</network_end>
+      <local_start>4100</local_start>
+      <local_end>4199</local_end>
+      <serving_office>91041</serving_office>
+      <translation>_91041xx</translation>
+      <recno>38</recno>
+      <last_upd>2018-12-01 06:44:49</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>928-3000</network_start>
+      <network_end>928-3099</network_end>
+      <local_start>3000</local_start>
+      <local_end>3099</local_end>
+      <serving_office>92830</serving_office>
+      <translation>_92830xx</translation>
+      <recno>39</recno>
+      <last_upd>2018-12-01 06:46:00</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>931-2176</network_start>
+      <network_end>931-2176</network_end>
+      <local_start>2176</local_start>
+      <local_end>2176</local_end>
+      <serving_office>97321</serving_office>
+      <translation> 9312176</translation>
+      <recno>40</recno>
+      <last_upd>2018-12-01 06:49:21</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>931-2178</network_start>
+      <network_end>931-2178</network_end>
+      <local_start>2178</local_start>
+      <local_end>2178</local_end>
+      <serving_office>97321</serving_office>
+      <translation> 9312178</translation>
+      <recno>41</recno>
+      <last_upd>2018-12-01 06:50:24</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>931-2181</network_start>
+      <network_end>931-2181</network_end>
+      <local_start>2181</local_start>
+      <local_end>2181</local_end>
+      <serving_office>97321</serving_office>
+      <translation> 9312181</translation>
+      <recno>42</recno>
+      <last_upd>2018-12-01 06:51:21</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>931-3300</network_start>
+      <network_end>931-3399</network_end>
+      <local_start>3300</local_start>
+      <local_end>3399</local_end>
+      <serving_office>61534</serving_office>
+      <translation>_93133xx</translation>
+      <recno>43</recno>
+      <last_upd>2018-12-01 06:52:31</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>931-3600</network_start>
+      <network_end>931-3699</network_end>
+      <local_start>3600</local_start>
+      <local_end>3699</local_end>
+      <serving_office>61534</serving_office>
+      <translation>_93136xx</translation>
+      <recno>44</recno>
+      <last_upd>2018-12-01 06:53:32</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>937-2160</network_start>
+      <network_end>937-2162</network_end>
+      <local_start>2160</local_start>
+      <local_end>2162</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_937216[012]</translation>
+      <recno>45</recno>
+      <last_upd>2018-12-01 06:54:42</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>937-0000</network_start>
+      <network_end>937-0999</network_end>
+      <local_start>0000</local_start>
+      <local_end>0999</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_9370xxx</translation>
+      <recno>46</recno>
+      <last_upd>2018-12-01 06:55:42</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>937-2169</network_start>
+      <network_end>937-2169</network_end>
+      <local_start>2169</local_start>
+      <local_end>2169</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_9372169</translation>
+      <recno>47</recno>
+      <last_upd>2018-12-01 06:56:46</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>941-2600</network_start>
+      <network_end>941-2699</network_end>
+      <local_start>2600</local_start>
+      <local_end>2699</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_94126xx</translation>
+      <recno>48</recno>
+      <last_upd>2018-12-01 06:57:50</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>949-6800</network_start>
+      <network_end>949-6899</network_end>
+      <local_start>6800</local_start>
+      <local_end>6899</local_end>
+      <serving_office>94968</serving_office>
+      <translation>_94968xx</translation>
+      <recno>49</recno>
+      <last_upd>2018-12-01 06:58:59</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>951-0000</network_start>
+      <network_end>951-9999</network_end>
+      <local_start>0000</local_start>
+      <local_end>9999</local_end>
+      <serving_office>95110</serving_office>
+      <translation>_951xxxx</translation>
+      <recno>50</recno>
+      <last_upd>2018-12-01 07:00:13</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>973-2100</network_start>
+      <network_end>973-2129</network_end>
+      <local_start>2100</local_start>
+      <local_end>2129</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_97321[012]x</translation>
+      <recno>51</recno>
+      <last_upd>2018-12-01 07:01:16</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>973-2190</network_start>
+      <network_end>973-2199</network_end>
+      <local_start>2180</local_start>
+      <local_end>2199</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_97321[89]x</translation>
+      <recno>52</recno>
+      <last_upd>2022-11-28 23:17:54</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>973-3100</network_start>
+      <network_end>973-3199</network_end>
+      <local_start>3100</local_start>
+      <local_end>3199</local_end>
+      <serving_office>97331</serving_office>
+      <translation>_97331xx</translation>
+      <recno>53</recno>
+      <last_upd>2018-12-01 07:03:58</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>577-0300</network_start>
+      <network_end>577-0499</network_end>
+      <local_start>300</local_start>
+      <local_end>499</local_end>
+      <serving_office>57799</serving_office>
+      <translation>_5770[34]xx</translation>
+      <recno>55</recno>
+      <last_upd>2018-12-01 12:17:11</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>577-2000</network_start>
+      <network_end>577-2999</network_end>
+      <local_start>24000</local_start>
+      <local_end>24999</local_end>
+      <serving_office>57799</serving_office>
+      <translation>_5772xxx</translation>
+      <recno>57</recno>
+      <last_upd>2018-12-01 12:20:26</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>577-4000</network_start>
+      <network_end>577-4999</network_end>
+      <local_start>4000</local_start>
+      <local_end>4999</local_end>
+      <serving_office>57799</serving_office>
+      <translation>_5774xxx</translation>
+      <recno>58</recno>
+      <last_upd>2018-12-01 12:21:31</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>577-5000</network_start>
+      <network_end>577-5999</network_end>
+      <local_start>14000</local_start>
+      <local_end>14999</local_end>
+      <serving_office>57799</serving_office>
+      <translation>_5775xxx</translation>
+      <recno>59</recno>
+      <last_upd>2018-12-01 12:22:44</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>577-9994</network_start>
+      <network_end>577-9994</network_end>
+      <local_start>*43</local_start>
+      <local_end>*43</local_end>
+      <serving_office>57799</serving_office>
+      <translation> 5779994</translation>
+      <recno>60</recno>
+      <last_upd>2018-12-01 12:24:16</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>577-9992</network_start>
+      <network_end>577-9992</network_end>
+      <local_start>*60</local_start>
+      <local_end>*60</local_end>
+      <serving_office>57799</serving_office>
+      <translation> 5779992</translation>
+      <recno>61</recno>
+      <last_upd>2018-12-01 12:25:31</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>937-1000</network_start>
+      <network_end>937-1099</network_end>
+      <local_start>1000</local_start>
+      <local_end>1099</local_end>
+      <serving_office>93710</serving_office>
+      <translation>_93710xx</translation>
+      <recno>62</recno>
+      <last_upd>2018-12-01 12:29:54</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>615-2180</network_start>
+      <network_end>615-2180</network_end>
+      <local_start>2180</local_start>
+      <local_end>2180</local_end>
+      <serving_office>97321</serving_office>
+      <translation> 6152189</translation>
+      <recno>66</recno>
+      <last_upd>2018-12-04 11:38:35</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>615-4200</network_start>
+      <network_end>615-4299</network_end>
+      <local_start>4200</local_start>
+      <local_end>4299</local_end>
+      <serving_office>61542</serving_office>
+      <translation>_61542xx</translation>
+      <recno>67</recno>
+      <last_upd>2018-12-10 02:47:52</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>615-4400</network_start>
+      <network_end>615-4499</network_end>
+      <local_start>4400</local_start>
+      <local_end>4499</local_end>
+      <serving_office>61544</serving_office>
+      <translation>_61544xx</translation>
+      <recno>71</recno>
+      <last_upd>2019-01-25 03:50:07</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>541-6100</network_start>
+      <network_end>541-6199</network_end>
+      <local_start>6100</local_start>
+      <local_end>6199</local_end>
+      <serving_office>54161</serving_office>
+      <translation>_54161xx</translation>
+      <recno>74</recno>
+      <last_upd>2019-02-23 18:07:45</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>937-1100</network_start>
+      <network_end>937-1199</network_end>
+      <local_start>1100</local_start>
+      <local_end>1199</local_end>
+      <serving_office>93711</serving_office>
+      <translation>_93711xx</translation>
+      <recno>75</recno>
+      <last_upd>2019-02-26 02:36:46</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>164-2000</network_start>
+      <network_end>164-2099</network_end>
+      <local_start>2000</local_start>
+      <local_end>2099</local_end>
+      <serving_office>16420</serving_office>
+      <translation>_16420xx</translation>
+      <recno>79</recno>
+      <last_upd>2020-04-23 17:36:23</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>164-1359</network_start>
+      <network_end>164-1359</network_end>
+      <local_start>1359</local_start>
+      <local_end>1359</local_end>
+      <serving_office>16474</serving_office>
+      <translation> 1641359</translation>
+      <recno>80</recno>
+      <last_upd>2020-04-23 19:55:32</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>164-7400</network_start>
+      <network_end>164-7499</network_end>
+      <local_start>7400</local_start>
+      <local_end>7499</local_end>
+      <serving_office>16474</serving_office>
+      <translation>_16474xx</translation>
+      <recno>81</recno>
+      <last_upd>2020-04-23 20:00:18</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>161-8000</network_start>
+      <network_end>161-8099</network_end>
+      <local_start>8000</local_start>
+      <local_end>8099</local_end>
+      <serving_office>16180</serving_office>
+      <translation>_16180xx</translation>
+      <recno>82</recno>
+      <last_upd>2020-04-23 19:57:19</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>808-0000</network_start>
+      <network_end>808-9999</network_end>
+      <local_start>0000</local_start>
+      <local_end>9999</local_end>
+      <serving_office>80830</serving_office>
+      <translation>_808xxxx</translation>
+      <recno>83</recno>
+      <last_upd>2020-04-23 22:54:07</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>401-0000</network_start>
+      <network_end>401-9999</network_end>
+      <local_start>0000</local_start>
+      <local_end>9999</local_end>
+      <serving_office>40199</serving_office>
+      <translation>_401xxxx</translation>
+      <recno>84</recno>
+      <last_upd>2020-04-23 23:03:10</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>573-1000</network_start>
+      <network_end>573-1099</network_end>
+      <local_start>1000</local_start>
+      <local_end>1099</local_end>
+      <serving_office>57310</serving_office>
+      <translation>_57310xx</translation>
+      <recno>86</recno>
+      <last_upd>2020-04-26 18:53:10</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>608-2100</network_start>
+      <network_end>608-2199</network_end>
+      <local_start>2100</local_start>
+      <local_end>2199</local_end>
+      <serving_office>60821</serving_office>
+      <translation>_60821xx</translation>
+      <recno>87</recno>
+      <last_upd>2021-03-03 17:17:29</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>215-3000</network_start>
+      <network_end>215-3500</network_end>
+      <local_start>3000</local_start>
+      <local_end>3500</local_end>
+      <serving_office>21530</serving_office>
+      <translation>_2153[0-5]xx</translation>
+      <recno>88</recno>
+      <last_upd>2021-03-03 17:26:57</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>314-5000</network_start>
+      <network_end>314-5199</network_end>
+      <local_start>5000</local_start>
+      <local_end>5199</local_end>
+      <serving_office>31450</serving_office>
+      <translation>_314xxxx</translation>
+      <recno>89</recno>
+      <last_upd>2021-03-03 17:42:26</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>215-2000</network_start>
+      <network_end>215-2199</network_end>
+      <local_start>2000</local_start>
+      <local_end>2199</local_end>
+      <serving_office>21520</serving_office>
+      <translation>_2152[01]xx</translation>
+      <recno>91</recno>
+      <last_upd>2021-03-09 16:53:15</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>521-0000</network_start>
+      <network_end>521-9999</network_end>
+      <local_start>0000</local_start>
+      <local_end>9999</local_end>
+      <serving_office>52199</serving_office>
+      <translation>_521xxxx</translation>
+      <recno>93</recno>
+      <last_upd>2021-03-11 02:42:53</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>525-0000</network_start>
+      <network_end>525-9999</network_end>
+      <local_start>0000</local_start>
+      <local_end>9999</local_end>
+      <serving_office>52599</serving_office>
+      <translation>_525xxxx</translation>
+      <recno>94</recno>
+      <last_upd>2021-03-11 02:43:49</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>523-0000</network_start>
+      <network_end>523-9999</network_end>
+      <local_start>0000</local_start>
+      <local_end>9999</local_end>
+      <serving_office>52399</serving_office>
+      <translation>_523xxxx</translation>
+      <recno>95</recno>
+      <last_upd>2021-03-11 04:20:23</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>816-0000</network_start>
+      <network_end>816-9999</network_end>
+      <local_start>0000</local_start>
+      <local_end>9999</local_end>
+      <serving_office>81600</serving_office>
+      <translation>_816xxxx</translation>
+      <recno>96</recno>
+      <last_upd>2022-02-21 20:16:58</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>636-8000</network_start>
+      <network_end>636-8099</network_end>
+      <local_start>8000</local_start>
+      <local_end>8099</local_end>
+      <serving_office>31450</serving_office>
+      <translation>_636xxxx</translation>
+      <recno>97</recno>
+      <last_upd>2021-07-23 02:11:00</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>913-0000</network_start>
+      <network_end>913-9999</network_end>
+      <local_start>0000</local_start>
+      <local_end>9999</local_end>
+      <serving_office>81600</serving_office>
+      <translation>_913xxxx</translation>
+      <recno>98</recno>
+      <last_upd>2022-02-21 20:16:31</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>510-4300</network_start>
+      <network_end>510-4399</network_end>
+      <local_start>4300</local_start>
+      <local_end>4399</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_51043xx</translation>
+      <recno>99</recno>
+      <last_upd>2021-07-23 02:17:10</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>714-4800</network_start>
+      <network_end>714-4899</network_end>
+      <local_start>4800</local_start>
+      <local_end>4899</local_end>
+      <serving_office>97321</serving_office>
+      <translation>_71448xx</translation>
+      <recno>100</recno>
+      <last_upd>2021-07-25 16:27:45</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>541-4100</network_start>
+      <network_end>541-4199</network_end>
+      <local_start>4100</local_start>
+      <local_end>4199</local_end>
+      <serving_office>54141</serving_office>
+      <translation>_54141xx</translation>
+      <recno>101</recno>
+      <last_upd>2022-02-21 02:29:05</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>360-8300</network_start>
+      <network_end>360-8399</network_end>
+      <local_start>8301</local_start>
+      <local_end>8399</local_end>
+      <serving_office>36083</serving_office>
+      <translation>_36083xx</translation>
+      <recno>104</recno>
+      <last_upd>2022-02-21 02:43:34</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>999-2500</network_start>
+      <network_end>999-2500</network_end>
+      <local_start/>
+      <local_end/>
+      <serving_office>97321</serving_office>
+      <translation>9992500</translation>
+      <recno>105</recno>
+      <last_upd>2022-02-21 02:45:16</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>999-5000</network_start>
+      <network_end>999-5000</network_end>
+      <local_start/>
+      <local_end/>
+      <serving_office>97321</serving_office>
+      <translation>9995000</translation>
+      <recno>106</recno>
+      <last_upd>2022-02-21 02:46:30</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>999-6373</network_start>
+      <network_end>999-6373</network_end>
+      <local_start/>
+      <local_end/>
+      <serving_office>97321</serving_office>
+      <translation>9996373</translation>
+      <recno>107</recno>
+      <last_upd>2022-02-21 02:48:17</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>555-4998</network_start>
+      <network_end>999-4998</network_end>
+      <local_start/>
+      <local_end/>
+      <serving_office>97321</serving_office>
+      <translation>5554998</translation>
+      <recno>108</recno>
+      <last_upd>2022-02-21 02:49:28</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>555-1212</network_start>
+      <network_end>555-1212</network_end>
+      <local_start/>
+      <local_end/>
+      <serving_office>97321</serving_office>
+      <translation>5551212</translation>
+      <recno>108</recno>
+      <last_upd>2022-02-21 02:49:28</last_upd>
+   </dialplan>   
+   <dialplan>
+      <network_start>817-5300</network_start>
+      <network_end>817-5399</network_end>
+      <local_start>5300</local_start>
+      <local_end>5399</local_end>
+      <serving_office>81753</serving_office>
+      <translation>_81753xx</translation>
+      <recno>109</recno>
+      <last_upd>2022-02-21 03:13:22</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>847-8800</network_start>
+      <network_end>847-8899</network_end>
+      <local_start>8800</local_start>
+      <local_end>8899</local_end>
+      <serving_office>84788</serving_office>
+      <translation>_84788xx</translation>
+      <recno>110</recno>
+      <last_upd>2022-02-21 03:16:55</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>533-9200</network_start>
+      <network_end>533-9299</network_end>
+      <local_start>9200</local_start>
+      <local_end>9299</local_end>
+      <serving_office>53392</serving_office>
+      <translation>_53392xx</translation>
+      <recno>111</recno>
+      <last_upd>2022-02-21 07:04:07</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>847-5800</network_start>
+      <network_end>847-5899</network_end>
+      <local_start>5800</local_start>
+      <local_end>5899</local_end>
+      <serving_office>84788</serving_office>
+      <translation>_84758xx</translation>
+      <recno>112</recno>
+      <last_upd>2022-02-21 09:35:41</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>847-6700</network_start>
+      <network_end>847-6799</network_end>
+      <local_start>6700</local_start>
+      <local_end>6799</local_end>
+      <serving_office>84788</serving_office>
+      <translation>_84767xx</translation>
+      <recno>113</recno>
+      <last_upd>2022-02-21 09:38:27</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>503-1000</network_start>
+      <network_end>503-1099</network_end>
+      <local_start>1000</local_start>
+      <local_end>1099</local_end>
+      <serving_office>50310</serving_office>
+      <translation>_50310xx</translation>
+      <recno>114</recno>
+      <last_upd>2022-07-27 16:27:26</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>503-1300</network_start>
+      <network_end>503-1399</network_end>
+      <local_start>1300</local_start>
+      <local_end>1399</local_end>
+      <serving_office>50313</serving_office>
+      <translation>_50313xx</translation>
+      <recno>115</recno>
+      <last_upd>2022-07-27 16:29:12</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>940-1200</network_start>
+      <network_end>940-1299</network_end>
+      <local_start>1200</local_start>
+      <local_end>1299</local_end>
+      <serving_office>94012</serving_office>
+      <translation>_94012xx</translation>
+      <recno>116</recno>
+      <last_upd>2022-07-27 16:31:08</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>478-6400</network_start>
+      <network_end>478-6499</network_end>
+      <local_start>6400</local_start>
+      <local_end>6499</local_end>
+      <serving_office>47864</serving_office>
+      <translation>_47864xx</translation>
+      <recno>117</recno>
+      <last_upd>2022-07-27 16:32:49</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>541-5400</network_start>
+      <network_end>541-5499</network_end>
+      <local_start>5400</local_start>
+      <local_end>5499</local_end>
+      <serving_office>54154</serving_office>
+      <translation>_54154xx</translation>
+      <recno>118</recno>
+      <last_upd>2022-07-27 16:34:23</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>541-5300</network_start>
+      <network_end>541-5300</network_end>
+      <local_start>5300</local_start>
+      <local_end>5399</local_end>
+      <serving_office>54153</serving_office>
+      <translation>_54153xx</translation>
+      <recno>119</recno>
+      <last_upd>2022-07-27 16:36:03</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>919-4200</network_start>
+      <network_end>919-4299</network_end>
+      <local_start>4200</local_start>
+      <local_end>4299</local_end>
+      <serving_office>91942</serving_office>
+      <translation>_91942xx</translation>
+      <recno>120</recno>
+      <last_upd>2022-07-27 16:38:02</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>973-7x7x</network_start>
+      <network_end>973-7x7x</network_end>
+      <local_start>7x7x</local_start>
+      <local_end>7x7x</local_end>
+      <serving_office>9737x</serving_office>
+      <translation>_9737x7x</translation>
+      <recno>121</recno>
+      <last_upd>2022-07-27 16:56:01</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>937-1400</network_start>
+      <network_end>937-1499</network_end>
+      <local_start>1400</local_start>
+      <local_end>1499</local_end>
+      <serving_office>93714</serving_office>
+      <translation>_93714xx</translation>
+      <recno>122</recno>
+      <last_upd>2022-08-22 09:57:42</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>541-4700</network_start>
+      <network_end>541-4799</network_end>
+      <local_start>4700</local_start>
+      <local_end>4799</local_end>
+      <serving_office>54147</serving_office>
+      <translation>_54147xx</translation>
+      <recno>123</recno>
+      <last_upd>2022-09-04 23:11:37</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>315-3500</network_start>
+      <network_end>315-3599</network_end>
+      <local_start>3500</local_start>
+      <local_end>3599</local_end>
+      <serving_office>31535</serving_office>
+      <translation>_31535xx</translation>
+      <recno>124</recno>
+      <last_upd>2022-11-13 00:53:02</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>415-5700</network_start>
+      <network_end>415-5799</network_end>
+      <local_start>5700</local_start>
+      <local_end>5799</local_end>
+      <serving_office>41557</serving_office>
+      <translation>_41557xx</translation>
+      <recno>125</recno>
+      <last_upd>2022-11-13 00:54:24</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>250-2200</network_start>
+      <network_end>250-2289</network_end>
+      <local_start>2200</local_start>
+      <local_end>2289</local_end>
+      <serving_office>25022</serving_office>
+      <translation>_25022[0-8]x</translation>
+      <recno>126</recno>
+      <last_upd>2022-11-15 06:20:20</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>250-2290</network_start>
+      <network_end>250-2299</network_end>
+      <local_start>2290</local_start>
+      <local_end>2299</local_end>
+      <serving_office>25022</serving_office>
+      <translation>_25022[0-8]x</translation>
+      <recno>126</recno>
+      <last_upd>2022-11-15 06:20:20</last_upd>
+   </dialplan>   
+   <dialplan>
+      <network_start>250-5400</network_start>
+      <network_end>250-5499</network_end>
+      <local_start>5400</local_start>
+      <local_end>5499</local_end>
+      <serving_office>25022</serving_office>
+      <translation>_25054xx</translation>
+      <recno>127</recno>
+      <last_upd>2022-11-15 06:21:49</last_upd>
+   </dialplan>
+   <dialplan>
+      <network_start>503-4400</network_start>
+      <network_end>503-4499</network_end>
+      <local_start>4400</local_start>
+      <local_end>4499</local_end>
+      <serving_office>50344</serving_office>
+      <translation>_50344xx</translation>
+      <recno>128</recno>
+      <last_upd>2022-11-20 18:44:10</last_upd>
+   </dialplan>
+
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address>10.27.14.66</ip_address>
+      <last_upd>2021-11-04 21:11:24</last_upd>
+      <lat>-36.713869</lat>
+      <location>Browns Bay, NZ</location>
+      <lon>174.745048</lon>
+      <network>world</network>
+      <npa>164</npa>
+      <office_code>16464</office_code>
+      <owner_callsign>ZL2AQY</owner_callsign>
+      <recno>3</recno>
+      <serving_node>ZL2AQY-Hub</serving_node>
+      <type>FreePBX</type>
+   </pbx>
+   <pbx>
+      <contact_email>ve6vh@va6edn-server.local.mesh</contact_email>
+      <contact_phone>403-5101</contact_phone>
+      <ip_address>10.48.197.218</ip_address>
+      <last_upd>2021-11-04 21:06:05</last_upd>
+      <lat>51.14345</lat>
+      <location>Calgary, AB</location>
+      <lon>-114.1764</lon>
+      <network>pnw</network>
+      <npa>403</npa>
+      <office_code>40351</office_code>
+      <owner_callsign>VE6VH</owner_callsign>
+      <recno>7</recno>
+      <serving_node>VE6VH-hAP-AREDN</serving_node>
+      <type>Asterisk</type>
+   </pbx>
+   <pbx>
+      <contact_email>n2mh@n2mh-mailhub.local.mesh</contact_email>
+      <contact_phone>533-2488</contact_phone>
+      <ip_address>10.208.114.46</ip_address>
+      <last_upd>2021-11-04 09:37:53</last_upd>
+      <lat>40.80123</lat>
+      <location>Mobile in NJ</location>
+      <lon>-74.247667</lon>
+      <network>portable</network>
+      <npa>533</npa>
+      <office_code>53324</office_code>
+      <owner_callsign>N2MH/M</owner_callsign>
+      <recno>8</recno>
+      <serving_node>N2MH-AR-CityVan</serving_node>
+      <type>AllStar bbb</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2020-04-21 16:56:03</last_upd>
+      <lat>35.9125</lat>
+      <location>Mobile in TN</location>
+      <lon>-86.3545</lon>
+      <network>portable</network>
+      <npa>533</npa>
+      <office_code>53391</office_code>
+      <owner_callsign>KM4ACK</owner_callsign>
+      <recno>10</recno>
+      <serving_node>KM4ACK-ARHP-102-LASCASSAS-GOBOX</serving_node>
+      <type>Incredible PBX</type>
+   </pbx>
+   <pbx>
+      <contact_email>k1ky@bellsouth.net</contact_email>
+      <contact_phone>615-2174</contact_phone>
+      <ip_address>10.84.136.50</ip_address>
+      <last_upd>2021-11-04 20:58:05</last_upd>
+      <lat>35.967552</lat>
+      <location>Nashville, TN</location>
+      <lon>-86.5742</lon>
+      <network>tennessee</network>
+      <npa>615</npa>
+      <office_code>61534</office_code>
+      <owner_callsign>KI4LMR</owner_callsign>
+      <recno>11</recno>
+      <serving_node>KI4LMR-APAR-103-BELMONT</serving_node>
+      <type>AllStar</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2018-11-30 20:43:19</last_upd>
+      <lat>34.052777</lat>
+      <location>Redlands, CA</location>
+      <lon>-117.144919</lon>
+      <network>socal</network>
+      <npa>909</npa>
+      <office_code>90960</office_code>
+      <owner_callsign>AI6BX</owner_callsign>
+      <recno>13</recno>
+      <serving_node/>
+      <type>FreePBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2018-11-30 20:44:37</last_upd>
+      <lat>33.924167</lat>
+      <location>Oak Island, NC</location>
+      <lon>-78.1425</lon>
+      <network>oki</network>
+      <npa>910</npa>
+      <office_code>91041</office_code>
+      <owner_callsign>N2MH/4</owner_callsign>
+      <recno>14</recno>
+      <serving_node/>
+      <type>AllStar</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2018-11-30 20:46:16</last_upd>
+      <lat>34.48</lat>
+      <location>Lake Havasu City, AZ</location>
+      <lon>-114.281</lon>
+      <network>socal</network>
+      <npa>928</npa>
+      <office_code>92830</office_code>
+      <owner_callsign>K0TAN</owner_callsign>
+      <recno>15</recno>
+      <serving_node/>
+      <type>FreePBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address>10.221.251.35</ip_address>
+      <last_upd>2021-11-04 20:54:13</last_upd>
+      <lat>33.59631</lat>
+      <location>Mission Viejo, CA</location>
+      <lon>-117.659578</lon>
+      <network>socal</network>
+      <npa>949</npa>
+      <office_code>94968</office_code>
+      <owner_callsign>KE6BXT</owner_callsign>
+      <recno>16</recno>
+      <serving_node>KE6BXT-hAP-MVCH-216</serving_node>
+      <type>FreePBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2018-11-30 20:50:06</last_upd>
+      <lat>33.496132</lat>
+      <location>Temicula, CA</location>
+      <lon>-117.08172</lon>
+      <network>socal</network>
+      <npa>951</npa>
+      <office_code>95110</office_code>
+      <owner_callsign>AG6IF</owner_callsign>
+      <recno>17</recno>
+      <serving_node/>
+      <type>FreePBX</type>
+   </pbx>
+   <pbx>
+      <contact_email>n2mh@n2mh-mailhub.local.mesh</contact_email>
+      <contact_phone>973-2111</contact_phone>
+      <ip_address>10.73.73.69</ip_address>
+      <last_upd>2021-11-04 20:39:48</last_upd>
+      <lat>40.792706</lat>
+      <location>West Orange, NJ</location>
+      <lon>-74.251222</lon>
+      <network/>
+      <npa>973</npa>
+      <office_code>97321</office_code>
+      <owner_callsign>N2MH</owner_callsign>
+      <recno>18</recno>
+      <serving_node>N2MH-Hub</serving_node>
+      <type>AllStar</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2018-11-30 20:53:26</last_upd>
+      <lat>0</lat>
+      <location>West Orange, NJ</location>
+      <lon>0</lon>
+      <network>internal</network>
+      <npa>973</npa>
+      <office_code>97331</office_code>
+      <owner_callsign>N2MH/T</owner_callsign>
+      <recno>19</recno>
+      <serving_node>N2MH-Hub</serving_node>
+      <type>FreePBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2018-11-30 22:17:24</last_upd>
+      <lat>39.6838</lat>
+      <location>Kettering, OH</location>
+      <lon>-84.1422</lon>
+      <network>mvma</network>
+      <npa>937</npa>
+      <office_code>93710</office_code>
+      <owner_callsign>NC8Q</owner_callsign>
+      <recno>22</recno>
+      <serving_node>NC8Q-Kettering-5665</serving_node>
+      <type>RasPBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone>941-2655</contact_phone>
+      <ip_address>10.172.237.29</ip_address>
+      <last_upd>2021-11-04 20:49:28</last_upd>
+      <lat>27.335023</lat>
+      <location>Sarasota, FL</location>
+      <lon>-82.551184</lon>
+      <network>srq</network>
+      <npa>941</npa>
+      <office_code>94126</office_code>
+      <owner_callsign>W8XG</owner_callsign>
+      <recno>25</recno>
+      <serving_node>W8XG-GGP-NSM2-E60</serving_node>
+      <type>RasPBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2018-12-06 16:05:22</last_upd>
+      <lat>52.4389</lat>
+      <location>Velserbroek, Netherlands</location>
+      <lon>4.66144</lon>
+      <network>world</network>
+      <npa>131</npa>
+      <office_code>13163</office_code>
+      <owner_callsign>PE1BTV</owner_callsign>
+      <recno>28</recno>
+      <serving_node>PE1BTV-SER</serving_node>
+      <type>raspbx</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2018-12-10 02:37:58</last_upd>
+      <lat>35.977346</lat>
+      <location>Nolensville, TN</location>
+      <lon>-86.6611</lon>
+      <network>tennessee</network>
+      <npa>615</npa>
+      <office_code>61542</office_code>
+      <owner_callsign>AK4FA</owner_callsign>
+      <recno>30</recno>
+      <serving_node>AK4FA-ARHP-250-NOLENSVILLE</serving_node>
+      <type>Incredible PBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2019-01-25 03:41:48</last_upd>
+      <lat>35.879054</lat>
+      <location>Pleasant Ridge, TN</location>
+      <lon>-86.038935</lon>
+      <network>tennessee</network>
+      <npa>615</npa>
+      <office_code>61544</office_code>
+      <owner_callsign>KG4IKT</owner_callsign>
+      <recno>32</recno>
+      <serving_node>km4gjr-arhp-204-pleasant-ridge</serving_node>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2019-02-23 18:02:45</last_upd>
+      <lat>42.369832</lat>
+      <location>Central Point, OR</location>
+      <lon>-122.896404</lon>
+      <network>virtual</network>
+      <npa>541</npa>
+      <office_code>54161</office_code>
+      <owner_callsign>KL7VK</owner_callsign>
+      <recno>35</recno>
+      <serving_node>KL7VK-HAPACL-200-CP</serving_node>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2019-02-26 02:33:40</last_upd>
+      <lat>39.847773</lat>
+      <location>Huber Heights, OH</location>
+      <lon>-84.099241</lon>
+      <network>mvma</network>
+      <npa>937</npa>
+      <office_code>93711</office_code>
+      <owner_callsign>W8BI</owner_callsign>
+      <recno>36</recno>
+      <serving_node>W8BI-DARA-Omni</serving_node>
+      <type>raspbx</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2020-04-23 17:32:21</last_upd>
+      <lat>-41.222398</lat>
+      <location>Wellington, NZ</location>
+      <lon>174.816743</lon>
+      <network>wellington</network>
+      <npa>164</npa>
+      <office_code>16420</office_code>
+      <owner_callsign>ZL2TB</owner_callsign>
+      <recno>40</recno>
+      <serving_node>ZL2TB-NS-QTH-WLG</serving_node>
+      <type>raspbx</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2020-04-23 19:38:08</last_upd>
+      <lat>-37.255354</lat>
+      <location>Waiuku, NZ</location>
+      <lon>174.732297</lon>
+      <network>oceania</network>
+      <npa>164</npa>
+      <office_code>16474</office_code>
+      <owner_callsign>ZL1FLY</owner_callsign>
+      <recno>41</recno>
+      <serving_node>ZL1FLY-LG</serving_node>
+      <type>FreePBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2020-04-23 19:42:13</last_upd>
+      <lat>-27.88</lat>
+      <location>Helensvale, Gold Coast, AU</location>
+      <lon>153.22</lon>
+      <network>oceania</network>
+      <npa>161</npa>
+      <office_code>16180</office_code>
+      <owner_callsign>VK4PUP</owner_callsign>
+      <recno>42</recno>
+      <serving_node>VK4PUP</serving_node>
+      <type>Freepbx</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone>591-1113</contact_phone>
+      <ip_address/>
+      <last_upd>2022-02-20 11:36:08</last_upd>
+      <lat>20.91758</lat>
+      <location>Wailuku, Maui, HI</location>
+      <lon>-156.494223</lon>
+      <network>aloha</network>
+      <npa>808</npa>
+      <office_code>80830</office_code>
+      <owner_callsign>WH6AV</owner_callsign>
+      <recno>43</recno>
+      <serving_node>WH6AF-3-Wailuku</serving_node>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2020-04-23 22:58:17</last_upd>
+      <lat>41.968628</lat>
+      <location>Burrillville, RI</location>
+      <lon>-71.669263</lon>
+      <network>world</network>
+      <npa>401</npa>
+      <office_code>40199</office_code>
+      <owner_callsign>KD1HA</owner_callsign>
+      <recno>44</recno>
+      <serving_node>KD1HA-1-BUR</serving_node>
+      <type>Incredible PBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2020-04-26 18:49:48</last_upd>
+      <lat>38.941787</lat>
+      <location>Columbia, MO</location>
+      <lon>-92.391586</lon>
+      <network>world</network>
+      <npa>573</npa>
+      <office_code>57310</office_code>
+      <owner_callsign>K0PHP</owner_callsign>
+      <recno>46</recno>
+      <serving_node/>
+      <type>RasPBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-02-20 11:36:32</last_upd>
+      <lat>21.939573</lat>
+      <location>Kauai, HI</location>
+      <lon>-159.51837</lon>
+      <network>aloha</network>
+      <npa>808</npa>
+      <office_code>80810</office_code>
+      <owner_callsign>WH6FG</owner_callsign>
+      <recno>47</recno>
+      <serving_node>WH6FG-1-Kalaheo-hap</serving_node>
+      <type>FreePBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-02-20 11:37:09</last_upd>
+      <lat>21.412387</lat>
+      <location>Oahu, HI</location>
+      <lon>-157.766118</lon>
+      <network>aloha</network>
+      <npa>808</npa>
+      <office_code>80820</office_code>
+      <owner_callsign>WH6FXL</owner_callsign>
+      <recno>48</recno>
+      <serving_node>WH6FXL-2-Kaneohe</serving_node>
+      <type>Incredible PBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-02-20 11:37:17</last_upd>
+      <lat>21.473513</lat>
+      <location>Oahu, HI</location>
+      <lon>-158.017401</lon>
+      <network>aloha</network>
+      <npa>808</npa>
+      <office_code>80821</office_code>
+      <owner_callsign>KH6IN</owner_callsign>
+      <recno>49</recno>
+      <serving_node>KH6IN-2-Miliani-Hapac</serving_node>
+      <type>Incredible PBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2021-03-04 17:12:22</last_upd>
+      <lat>43.545446</lat>
+      <location>Portage, WI</location>
+      <lon>-89.479325</lon>
+      <network>wisconsin</network>
+      <npa>608</npa>
+      <office_code>60821</office_code>
+      <owner_callsign>W9IKU</owner_callsign>
+      <recno>50</recno>
+      <serving_node>W9IKU-608MeshPhone</serving_node>
+      <type>RasPbx</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address>10.43.122.235</ip_address>
+      <last_upd>2021-11-04 20:47:30</last_upd>
+      <lat>40.24451</lat>
+      <location>Harleyville, PA</location>
+      <lon>-75.37013</lon>
+      <network>penna</network>
+      <npa>215</npa>
+      <office_code>21530</office_code>
+      <owner_callsign>W3EX</owner_callsign>
+      <recno>51</recno>
+      <serving_node>W3EX-Mikrotik-1</serving_node>
+      <type>RasPbx</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address>10.142.184.196</ip_address>
+      <last_upd>2021-11-04 20:44:09</last_upd>
+      <lat>38.773492</lat>
+      <location>O'Fallon, MO</location>
+      <lon>-90.713253</lon>
+      <network>world</network>
+      <npa>314</npa>
+      <office_code>31450</office_code>
+      <owner_callsign>AE0ME</owner_callsign>
+      <recno>52</recno>
+      <serving_node>AE0ME-hAP-F1C8 / EM48ps-qth</serving_node>
+      <type>RasPbx</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-08-24 19:27:08</last_upd>
+      <lat>50.77623</lat>
+      <location>Aachen, Germany</location>
+      <lon>6.06937</lon>
+      <network>ampr</network>
+      <npa>149</npa>
+      <office_code>14901</office_code>
+      <owner_callsign>DB0SDA</owner_callsign>
+      <recno>53</recno>
+      <serving_node>sip.db0sda.ampr.org</serving_node>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-08-24 19:27:38</last_upd>
+      <lat>50.8615</lat>
+      <location>Cologne, Germany</location>
+      <lon>6.836</lon>
+      <network>ampr</network>
+      <npa>149</npa>
+      <office_code>14902</office_code>
+      <owner_callsign>DB0KO</owner_callsign>
+      <recno>54</recno>
+      <serving_node>sip.db0ko.ampr.org</serving_node>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-08-24 19:28:11</last_upd>
+      <lat>48.58499</lat>
+      <location>Wingersdorf, Germany</location>
+      <lon>13.55991</lon>
+      <network>ampr</network>
+      <npa>149</npa>
+      <office_code>14903</office_code>
+      <owner_callsign>DB0PAS</owner_callsign>
+      <recno>55</recno>
+      <serving_node>raspi.db0ko.ampr.org</serving_node>
+      <type>raw</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-08-24 19:25:21</last_upd>
+      <lat>52.010064</lat>
+      <location>IJsselstein, Netherlands</location>
+      <lon>5.053518</lon>
+      <network>ampr</network>
+      <npa>131</npa>
+      <office_code>13101</office_code>
+      <owner_callsign>PA3EDN</owner_callsign>
+      <recno>56</recno>
+      <serving_node>voip.pa3edn.ampr.org</serving_node>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-08-24 19:25:57</last_upd>
+      <lat>51.42929</lat>
+      <location>Duisburg-Essen, Germany</location>
+      <lon>6.78475</lon>
+      <network>ampr</network>
+      <npa>149</npa>
+      <office_code>14904</office_code>
+      <owner_callsign>DB0GW</owner_callsign>
+      <recno>57</recno>
+      <serving_node>voip.db0gw.ampr.org</serving_node>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-08-24 19:26:38</last_upd>
+      <lat>45.72564</lat>
+      <location>Timisoara, Romania</location>
+      <lon>21.24538</lon>
+      <network>ampr</network>
+      <npa>140</npa>
+      <office_code>14001</office_code>
+      <owner_callsign>YO2LOJ</owner_callsign>
+      <recno>58</recno>
+      <serving_node>server.yo2loj.ampr.org</serving_node>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2021-03-03 22:56:43</last_upd>
+      <lat>34.995691</lat>
+      <location>Apison, TN</location>
+      <lon>-84.96249</lon>
+      <network>tennessee</network>
+      <npa>423</npa>
+      <office_code>42337</office_code>
+      <owner_callsign>KE4IDH</owner_callsign>
+      <recno>59</recno>
+      <serving_node>KE4IDH-ARAR-150-CHA</serving_node>
+      <type>Incredible PBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2021-03-09 16:43:15</last_upd>
+      <lat>40.261741</lat>
+      <location>Hatfield, PA</location>
+      <lon>-75.270689</lon>
+      <network>penna</network>
+      <npa>215</npa>
+      <office_code>21520</office_code>
+      <owner_callsign>AA3JC</owner_callsign>
+      <recno>60</recno>
+      <serving_node>AA3JC-Mesh-05-5ghz</serving_node>
+      <type>RasPBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2021-03-11 02:40:33</last_upd>
+      <lat>0</lat>
+      <location>Wide-Area</location>
+      <lon>0</lon>
+      <network>hh</network>
+      <npa>590</npa>
+      <office_code>59099</office_code>
+      <owner_callsign>HHUX</owner_callsign>
+      <recno>62</recno>
+      <serving_node/>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2021-03-11 02:40:33</last_upd>
+      <lat>0</lat>
+      <location>Wide-Area</location>
+      <lon>0</lon>
+      <network>hh</network>
+      <npa>591</npa>
+      <office_code>59199</office_code>
+      <owner_callsign>HHUX</owner_callsign>
+      <recno>63</recno>
+      <serving_node/>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2021-03-11 02:40:33</last_upd>
+      <lat>0</lat>
+      <location>Wide-Area</location>
+      <lon>0</lon>
+      <network>hh</network>
+      <npa>592</npa>
+      <office_code>59299</office_code>
+      <owner_callsign>HHUX</owner_callsign>
+      <recno>64</recno>
+      <serving_node/>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>0000-00-00 00:00:00</last_upd>
+      <lat>0</lat>
+      <location>Wide-Area</location>
+      <lon>0</lon>
+      <network>hh</network>
+      <npa>593</npa>
+      <office_code>59399</office_code>
+      <owner_callsign>HHUX</owner_callsign>
+      <recno>65</recno>
+      <serving_node/>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2021-03-11 02:40:33</last_upd>
+      <lat>0</lat>
+      <location>Wide-Area</location>
+      <lon>0</lon>
+      <network>hh</network>
+      <npa>594</npa>
+      <office_code>59499</office_code>
+      <owner_callsign>HHUX</owner_callsign>
+      <recno>66</recno>
+      <serving_node/>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2021-03-11 02:40:33</last_upd>
+      <lat>0</lat>
+      <location>Wide-Area</location>
+      <lon>0</lon>
+      <network>hh</network>
+      <npa>595</npa>
+      <office_code>59599</office_code>
+      <owner_callsign>HHUX</owner_callsign>
+      <recno>67</recno>
+      <serving_node/>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2021-03-11 02:40:33</last_upd>
+      <lat>0</lat>
+      <location>Wide-Area</location>
+      <lon>0</lon>
+      <network>hh</network>
+      <npa>596</npa>
+      <office_code>59699</office_code>
+      <owner_callsign>HHUX</owner_callsign>
+      <recno>68</recno>
+      <serving_node/>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2021-03-11 02:40:33</last_upd>
+      <lat>0</lat>
+      <location>Wide-Area</location>
+      <lon>0</lon>
+      <network>hh</network>
+      <npa>597</npa>
+      <office_code>59799</office_code>
+      <owner_callsign>HHUX</owner_callsign>
+      <recno>69</recno>
+      <serving_node/>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2021-03-11 02:40:33</last_upd>
+      <lat>0</lat>
+      <location>Wide-Area</location>
+      <lon>0</lon>
+      <network>hh</network>
+      <npa>598</npa>
+      <office_code>59899</office_code>
+      <owner_callsign>HHUX</owner_callsign>
+      <recno>70</recno>
+      <serving_node/>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2021-03-11 04:17:28</last_upd>
+      <lat>0</lat>
+      <location>Wide-Area</location>
+      <lon>0</lon>
+      <network>hh</network>
+      <npa>599</npa>
+      <office_code>59999</office_code>
+      <owner_callsign>HHUX</owner_callsign>
+      <recno>71</recno>
+      <serving_node/>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2021-07-23 00:49:08</last_upd>
+      <lat>39.184697</lat>
+      <location>Kansas City, MO</location>
+      <lon>-94.563789</lon>
+      <network>world</network>
+      <npa>816</npa>
+      <office_code>81600</office_code>
+      <owner_callsign>KD0VXN</owner_callsign>
+      <recno>72</recno>
+      <serving_node/>
+      <type>Grandstream UCM6202</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2021-07-23 01:54:07</last_upd>
+      <lat>37.8776</lat>
+      <location>Berkeley, CA</location>
+      <lon>-122.2978</lon>
+      <network>sfo</network>
+      <npa>510</npa>
+      <office_code>51043</office_code>
+      <owner_callsign>KJ6DZB</owner_callsign>
+      <recno>73</recno>
+      <serving_node/>
+      <type>virtual</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address>10.71.73.142</ip_address>
+      <last_upd>2021-11-04 20:45:37</last_upd>
+      <lat>33.712382</lat>
+      <location>Huntington Beach, CA</location>
+      <lon>-118.035822</lon>
+      <network>socal</network>
+      <npa>714</npa>
+      <office_code>71448</office_code>
+      <owner_callsign>W6SNX</owner_callsign>
+      <recno>74</recno>
+      <serving_node>W6SNX-hAP-40-233-49</serving_node>
+      <type>RasPBX</type>
+   </pbx>
+   <pbx>
+      <contact_email>k4spblife@gmail.com</contact_email>
+      <contact_phone/>
+      <ip_address>10.152.155.34</ip_address>
+      <last_upd>2021-12-20 20:09:57</last_upd>
+      <lat>32.724</lat>
+      <location>Fort Worth, TX</location>
+      <lon>-97.391</lon>
+      <network>aredn</network>
+      <npa>817</npa>
+      <office_code>81753</office_code>
+      <owner_callsign>K4SPB</owner_callsign>
+      <recno>77</recno>
+      <serving_node>K4SPB-HAP-1</serving_node>
+      <type>RasPBX</type>
+   </pbx>
+   <pbx>
+      <contact_email>n2mh@n2mh-mailhub.local.mesh</contact_email>
+      <contact_phone>973-2111</contact_phone>
+      <ip_address>10.228.118.124</ip_address>
+      <last_upd>2021-12-05 11:32:41</last_upd>
+      <lat>35.788019</lat>
+      <location>Cary, NC</location>
+      <lon>-78.90192</lon>
+      <network>world</network>
+      <npa>919</npa>
+      <office_code>91942</office_code>
+      <owner_callsign>N2MH</owner_callsign>
+      <recno>78</recno>
+      <serving_node>KB8LMR-mikrotik-1</serving_node>
+      <type>virtual</type>
+   </pbx>
+   <pbx>
+      <contact_email>riverfish@comcast.net</contact_email>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-02-21 01:49:59</last_upd>
+      <lat>44.10352</lat>
+      <location>Eugene, OR</location>
+      <lon>-123.1574</lon>
+      <network>oregon</network>
+      <npa>541</npa>
+      <office_code>54141</office_code>
+      <owner_callsign>AI7BQ</owner_callsign>
+      <recno>79</recno>
+      <serving_node>AI7NC-QTH-hAP</serving_node>
+      <type>FreePBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-02-21 02:53:53</last_upd>
+      <lat>45.6687</lat>
+      <location>Camas, WA</location>
+      <lon>-122.3865</lon>
+      <network>oregon</network>
+      <npa>360</npa>
+      <office_code>36083</office_code>
+      <owner_callsign>N2MH</owner_callsign>
+      <recno>80</recno>
+      <serving_node>WA9ONY-HAP-HOME</serving_node>
+      <type>virtual</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-02-21 03:21:07</last_upd>
+      <lat>42.127257</lat>
+      <location>Northbrook, IL</location>
+      <lon>-87.820759</lon>
+      <network>aredn</network>
+      <npa>847</npa>
+      <office_code>84788</office_code>
+      <owner_callsign>WU2S</owner_callsign>
+      <recno>81</recno>
+      <serving_node>WU2S-GL-B</serving_node>
+      <type>RasPBX</type>
+   </pbx>
+   <pbx>
+      <contact_email>test@test</contact_email>
+      <contact_phone>533-9289</contact_phone>
+      <ip_address/>
+      <last_upd>2022-02-21 06:58:02</last_upd>
+      <lat>0</lat>
+      <location>Portable in NJ</location>
+      <lon>0</lon>
+      <network>various</network>
+      <npa>533</npa>
+      <office_code>53392</office_code>
+      <owner_callsign>N2MH</owner_callsign>
+      <recno>82</recno>
+      <serving_node>N2MH-AR-750-PBX-Test</serving_node>
+      <type>asterisk 16</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-07-27 17:17:26</last_upd>
+      <lat>45.32066</lat>
+      <location>Oregon City, OR</location>
+      <lon>-122.58368</lon>
+      <network>oregon</network>
+      <npa>503</npa>
+      <office_code>50310</office_code>
+      <owner_callsign>WB7AWL</owner_callsign>
+      <recno>83</recno>
+      <serving_node>WB7AWL-HAP-QTH</serving_node>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-08-19 18:42:36</last_upd>
+      <lat>45.517804</lat>
+      <location>Portland, OR</location>
+      <lon>-122.567658</lon>
+      <network>oregon</network>
+      <npa>503</npa>
+      <office_code>50313</office_code>
+      <owner_callsign>K7ENN</owner_callsign>
+      <recno>84</recno>
+      <serving_node>K7ENN-HAP-QTH</serving_node>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-07-28 00:27:47</last_upd>
+      <lat>0</lat>
+      <location>TX</location>
+      <lon>0</lon>
+      <network>ntx</network>
+      <npa>940</npa>
+      <office_code>94012</office_code>
+      <owner_callsign/>
+      <recno>85</recno>
+      <serving_node/>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email>kc4jir@arrl.net</contact_email>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-07-28 01:32:23</last_upd>
+      <lat>32.565116</lat>
+      <location>Warner-Robbins, GA</location>
+      <lon>-83.586731</lon>
+      <network>tenn</network>
+      <npa>478</npa>
+      <office_code>47864</office_code>
+      <owner_callsign>KC4JIR</owner_callsign>
+      <recno>86</recno>
+      <serving_node>KC4JIR-HAP-100-WRGA</serving_node>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email>aa7cl@live.com</contact_email>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-07-28 01:35:05</last_upd>
+      <lat>42.51859</lat>
+      <location>Merlin, OR</location>
+      <lon>-123.465174</lon>
+      <network>oregon</network>
+      <npa>541</npa>
+      <office_code>54154</office_code>
+      <owner_callsign>AA7CL</owner_callsign>
+      <recno>87</recno>
+      <serving_node>AA7CL-HAP-Merlin</serving_node>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email>kwheeler@ccountry.com</contact_email>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-07-28 01:37:44</last_upd>
+      <lat>42.369579</lat>
+      <location>Medford, OR</location>
+      <lon>-122.896628</lon>
+      <network>oregon</network>
+      <npa>541</npa>
+      <office_code>54153</office_code>
+      <owner_callsign>KL7VK</owner_callsign>
+      <recno>88</recno>
+      <serving_node>KL7VK-HAP-250-CP</serving_node>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email>n2mh@n2mh-mailhub.local.mesh</contact_email>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-07-28 01:44:18</last_upd>
+      <lat>0</lat>
+      <location>NJ</location>
+      <lon>0</lon>
+      <network>all</network>
+      <npa>973</npa>
+      <office_code>9737x</office_code>
+      <owner_callsign>N2MH</owner_callsign>
+      <recno>89</recno>
+      <serving_node>N2MH-Web.local.mesh</serving_node>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email>james.kg5gsi@gmail.com</contact_email>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-07-28 03:43:41</last_upd>
+      <lat>33.3067415</lat>
+      <location>Aubrey, TX</location>
+      <lon>-96.9887317</lon>
+      <network>ntx</network>
+      <npa>940</npa>
+      <office_code>94030</office_code>
+      <owner_callsign>KG5GSI</owner_callsign>
+      <recno>90</recno>
+      <serving_node>KG5GSI-RHP</serving_node>
+      <type/>
+   </pbx>
+   <pbx>
+      <contact_email>matwell50@yahoo.com</contact_email>
+      <contact_phone/>
+      <ip_address>10.159.58.82</ip_address>
+      <last_upd>2022-08-22 09:52:39</last_upd>
+      <lat>39.44389</lat>
+      <location>Wilmington, OH</location>
+      <lon>-83.83971</lon>
+      <network>mvma</network>
+      <npa>937</npa>
+      <office_code>93714</office_code>
+      <owner_callsign>W8GO</owner_callsign>
+      <recno>91</recno>
+      <serving_node>w8go-Hub-hAP</serving_node>
+      <type>RasPBX</type>
+   </pbx>
+   <pbx>
+      <contact_email>pierodimeo@alice.it</contact_email>
+      <contact_phone/>
+      <ip_address>185.203.119.216</ip_address>
+      <last_upd>2022-08-24 19:14:54</last_upd>
+      <lat>41.2688</lat>
+      <location>Trani, Italy</location>
+      <lon>16.41941</lon>
+      <network>internet</network>
+      <npa>139</npa>
+      <office_code>13901</office_code>
+      <owner_callsign>I7IGX</owner_callsign>
+      <recno>92</recno>
+      <serving_node/>
+      <type>FreePBX</type>
+   </pbx>
+   <pbx>
+      <contact_email>juliemcgrew@mac.com</contact_email>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-09-04 23:06:28</last_upd>
+      <lat>43.989588</lat>
+      <location>Florence, OR</location>
+      <lon>-124.101992</lon>
+      <network>oregon</network>
+      <npa>541</npa>
+      <office_code>54147</office_code>
+      <owner_callsign>AC0WN</owner_callsign>
+      <recno>93</recno>
+      <serving_node>W7FLO-12-RTR</serving_node>
+      <type>RasPBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-11-13 00:49:51</last_upd>
+      <lat>43.05332</lat>
+      <location>Little Falls, NY</location>
+      <lon>-74.889786</lon>
+      <network>AMPRnet</network>
+      <npa>315</npa>
+      <office_code>31535</office_code>
+      <owner_callsign>K1YMI</owner_callsign>
+      <recno>94</recno>
+      <serving_node/>
+      <type>RasPBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-11-13 00:47:25</last_upd>
+      <lat>38.0868188</lat>
+      <location>Novato, CA</location>
+      <lon>-122.5730317</lon>
+      <network>sf</network>
+      <npa>415</npa>
+      <office_code>41557</office_code>
+      <owner_callsign>WA6CR</owner_callsign>
+      <recno>95</recno>
+      <serving_node>WA6CR-Novato</serving_node>
+      <type>Virtual</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-11-15 05:17:35</last_upd>
+      <lat>49.017118</lat>
+      <location>Nanaimo, BC</location>
+      <lon>-123.824433</lon>
+      <network>pnw</network>
+      <npa>250</npa>
+      <office_code>25022</office_code>
+      <owner_callsign>VE7LSE</owner_callsign>
+      <recno>96</recno>
+      <serving_node>VE7LSE-HAP-1</serving_node>
+      <type>RasPBX</type>
+   </pbx>
+   <pbx>
+      <contact_email/>
+      <contact_phone/>
+      <ip_address/>
+      <last_upd>2022-11-20 18:37:59</last_upd>
+      <lat>44.882132</lat>
+      <location>Salem, OR</location>
+      <lon>-123.077409</lon>
+      <network>oregon</network>
+      <npa>503</npa>
+      <office_code>50344</office_code>
+      <owner_callsign>K7MAR</owner_callsign>
+      <recno>97</recno>
+      <serving_node>KJ7DZ-TUN-QTH</serving_node>
+      <type>RasPBX</type>
+   </pbx>
+
+   <recno>
+      <tablename>trunks</tablename>
+      <tablerecno>127</tablerecno>
+      <recnorecno>1</recnorecno>
+      <tablelastupd>2021-07-25 16:26:06</tablelastupd>
+   </recno>
+   <recno>
+      <tablename>dialplan</tablename>
+      <tablerecno>101</tablerecno>
+      <recnorecno>2</recnorecno>
+      <tablelastupd>2021-07-25 16:27:45</tablelastupd>
+   </recno>
+   <recno>
+      <tablename>pbx</tablename>
+      <tablerecno>3</tablerecno>
+      <recnorecno>3</recnorecno>
+      <tablelastupd>2021-12-19 23:55:39</tablelastupd>
+   </recno>
+   <recno>
+      <tablename>network</tablename>
+      <tablerecno>26</tablerecno>
+      <recnorecno>4</recnorecno>
+      <tablelastupd>2021-12-19 23:07:47</tablelastupd>
+   </recno>
+
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>16464</office_code_z>
+      <network>world</network>
+      <recno>5</recno>
+      <last_upd>2018-11-30 23:19:25</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>16464</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>world</network>
+      <recno>6</recno>
+      <last_upd>2018-11-30 23:20:25</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>40351</office_code_z>
+      <network>world</network>
+      <recno>7</recno>
+      <last_upd>2018-11-30 23:28:48</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>40351</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>world</network>
+      <recno>8</recno>
+      <last_upd>2018-11-30 23:32:00</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>61534</office_code_z>
+      <network>tennessee</network>
+      <recno>9</recno>
+      <last_upd>2018-11-30 23:32:49</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>61534</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>tennessee</network>
+      <recno>10</recno>
+      <last_upd>2018-11-30 23:33:33</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>90960</office_code_z>
+      <network>socal</network>
+      <recno>11</recno>
+      <last_upd>2018-11-30 23:34:21</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>90960</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>socal</network>
+      <recno>12</recno>
+      <last_upd>2018-11-30 23:35:00</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>91041</office_code_z>
+      <network>oki</network>
+      <recno>13</recno>
+      <last_upd>2018-11-30 23:36:57</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>91041</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>oki</network>
+      <recno>14</recno>
+      <last_upd>2018-11-30 23:37:39</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>93710</office_code_z>
+      <network>mvma</network>
+      <recno>19</recno>
+      <last_upd>2018-11-30 23:42:09</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>93710</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>mvma</network>
+      <recno>20</recno>
+      <last_upd>2018-11-30 23:42:55</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>90960</office_code_a>
+      <office_code_z>92830</office_code_z>
+      <network>socal</network>
+      <recno>21</recno>
+      <last_upd>2018-11-30 23:47:42</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>92830</office_code_a>
+      <office_code_z>90960</office_code_z>
+      <network>socal</network>
+      <recno>22</recno>
+      <last_upd>2018-11-30 23:48:30</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>90960</office_code_a>
+      <office_code_z>94968</office_code_z>
+      <network>socal</network>
+      <recno>23</recno>
+      <last_upd>2018-11-30 23:49:25</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>94968</office_code_a>
+      <office_code_z>90960</office_code_z>
+      <network>socal</network>
+      <recno>24</recno>
+      <last_upd>2018-11-30 23:50:02</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>90960</office_code_a>
+      <office_code_z>95110</office_code_z>
+      <network>socal</network>
+      <recno>25</recno>
+      <last_upd>2018-11-30 23:50:55</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>95110</office_code_a>
+      <office_code_z>90960</office_code_z>
+      <network>socal</network>
+      <recno>26</recno>
+      <last_upd>2018-11-30 23:51:31</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>94126</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>srq</network>
+      <recno>41</recno>
+      <last_upd>2018-12-03 14:08:52</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>94126</office_code_z>
+      <network>srq</network>
+      <recno>42</recno>
+      <last_upd>2018-12-03 14:09:33</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97331</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>nj</network>
+      <recno>43</recno>
+      <last_upd>2018-12-03 14:10:49</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>97331</office_code_z>
+      <network>nj</network>
+      <recno>44</recno>
+      <last_upd>2018-12-03 14:11:23</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>53391</office_code_a>
+      <office_code_z>61534</office_code_z>
+      <network>portable</network>
+      <recno>47</recno>
+      <last_upd>2018-12-03 14:16:45</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>61534</office_code_a>
+      <office_code_z>53391</office_code_z>
+      <network>portable</network>
+      <recno>48</recno>
+      <last_upd>2018-12-03 14:17:25</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>53324</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>portable</network>
+      <recno>49</recno>
+      <last_upd>2019-04-18 09:39:28</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>53324</office_code_z>
+      <network>portable</network>
+      <recno>50</recno>
+      <last_upd>2019-04-18 09:39:55</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>70389</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network/>
+      <recno>51</recno>
+      <last_upd>2018-12-03 14:21:27</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>70389</office_code_z>
+      <network/>
+      <recno>52</recno>
+      <last_upd>2018-12-03 14:22:03</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>13163</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>world</network>
+      <recno>53</recno>
+      <last_upd>2018-12-03 17:15:42</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>13163</office_code_z>
+      <network>world</network>
+      <recno>54</recno>
+      <last_upd>2018-12-07 12:51:03</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>57799</office_code_z>
+      <network>hh</network>
+      <recno>55</recno>
+      <last_upd>2018-12-09 17:24:44</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>57799</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>hh</network>
+      <recno>56</recno>
+      <last_upd>2018-12-09 17:25:28</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>61542</office_code_a>
+      <office_code_z>61534</office_code_z>
+      <network>tennessee</network>
+      <recno>57</recno>
+      <last_upd>2018-12-10 02:41:10</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>61534</office_code_a>
+      <office_code_z>61542</office_code_z>
+      <network>tennessee</network>
+      <recno>58</recno>
+      <last_upd>2018-12-10 02:41:42</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>61544</office_code_a>
+      <office_code_z>61534</office_code_z>
+      <network>tennessee</network>
+      <recno>61</recno>
+      <last_upd>2019-01-25 03:47:27</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>61534</office_code_a>
+      <office_code_z>61544</office_code_z>
+      <network>tennessee</network>
+      <recno>62</recno>
+      <last_upd>2019-01-25 03:48:01</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>54161</office_code_a>
+      <office_code_z>61534</office_code_z>
+      <network/>
+      <recno>67</recno>
+      <last_upd>2019-02-23 18:05:23</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>61534</office_code_a>
+      <office_code_z>54161</office_code_z>
+      <network/>
+      <recno>68</recno>
+      <last_upd>2019-02-23 18:05:56</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>93710</office_code_a>
+      <office_code_z>93711</office_code_z>
+      <network>mvma</network>
+      <recno>69</recno>
+      <last_upd>2019-02-26 02:34:43</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>93711</office_code_a>
+      <office_code_z>93710</office_code_z>
+      <network>mvma</network>
+      <recno>70</recno>
+      <last_upd>2019-02-26 02:35:20</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>16464</office_code_a>
+      <office_code_z>16420</office_code_z>
+      <network>wellington</network>
+      <recno>77</recno>
+      <last_upd>2020-04-23 13:33:47</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>16420</office_code_a>
+      <office_code_z>16464</office_code_z>
+      <network>wellington</network>
+      <recno>78</recno>
+      <last_upd>2020-04-23 13:33:47</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>16464</office_code_a>
+      <office_code_z>16474</office_code_z>
+      <network>oceania</network>
+      <recno>79</recno>
+      <last_upd>2020-04-23 19:44:44</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>16474</office_code_a>
+      <office_code_z>16464</office_code_z>
+      <network>oceania</network>
+      <recno>80</recno>
+      <last_upd>2020-04-23 19:44:44</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>16464</office_code_a>
+      <office_code_z>16180</office_code_z>
+      <network>oceania</network>
+      <recno>81</recno>
+      <last_upd>2020-04-23 19:46:36</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>16180</office_code_a>
+      <office_code_z>16464</office_code_z>
+      <network>oceania</network>
+      <recno>82</recno>
+      <last_upd>2020-04-23 19:46:36</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>80830</office_code_z>
+      <network>socal</network>
+      <recno>83</recno>
+      <last_upd>2020-04-23 22:43:23</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>80830</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>socal</network>
+      <recno>84</recno>
+      <last_upd>2020-04-23 22:52:14</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>40199</office_code_z>
+      <network>world</network>
+      <recno>85</recno>
+      <last_upd>2020-04-23 23:00:56</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>40199</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>world</network>
+      <recno>86</recno>
+      <last_upd>2020-04-23 23:00:56</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>57310</office_code_z>
+      <network>world</network>
+      <recno>89</recno>
+      <last_upd>2020-04-26 18:51:04</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>57310</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>world</network>
+      <recno>90</recno>
+      <last_upd>2020-04-26 18:51:04</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>60821</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>wisconsin</network>
+      <recno>91</recno>
+      <last_upd>2021-03-03 17:15:09</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>60821</office_code_z>
+      <network>wisconsin</network>
+      <recno>92</recno>
+      <last_upd>2021-03-03 17:15:56</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>21530</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>penna</network>
+      <recno>93</recno>
+      <last_upd>2021-03-03 17:24:38</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>21530</office_code_z>
+      <network>penna</network>
+      <recno>94</recno>
+      <last_upd>2021-03-03 17:25:20</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>31450</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>world</network>
+      <recno>95</recno>
+      <last_upd>2021-03-03 17:40:59</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>31540</office_code_z>
+      <network>world</network>
+      <recno>96</recno>
+      <last_upd>2021-03-03 19:18:46</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>14901</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>hamnet</network>
+      <recno>97</recno>
+      <last_upd>2021-03-03 19:19:57</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>14901</office_code_z>
+      <network>hamnet</network>
+      <recno>98</recno>
+      <last_upd>2021-03-03 19:20:33</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>14902</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>hamnet</network>
+      <recno>99</recno>
+      <last_upd>2021-03-03 19:35:29</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>14902</office_code_z>
+      <network>hamnet</network>
+      <recno>100</recno>
+      <last_upd>2021-03-03 19:36:10</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>14903</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>hamnet</network>
+      <recno>101</recno>
+      <last_upd>2021-03-03 19:50:29</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>14903</office_code_z>
+      <network>hamnet</network>
+      <recno>102</recno>
+      <last_upd>2021-03-03 19:51:09</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>13101</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>hamnet</network>
+      <recno>103</recno>
+      <last_upd>2021-03-03 19:57:50</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>13101</office_code_z>
+      <network>hamnet</network>
+      <recno>104</recno>
+      <last_upd>2021-03-03 19:58:31</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>14904</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>hamnet</network>
+      <recno>105</recno>
+      <last_upd>2021-03-03 20:08:17</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>14904</office_code_z>
+      <network>hamnet</network>
+      <recno>106</recno>
+      <last_upd>2021-03-03 20:08:45</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>14001</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>hamnet</network>
+      <recno>107</recno>
+      <last_upd>2021-03-03 20:20:10</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>14001</office_code_z>
+      <network>hamnet</network>
+      <recno>108</recno>
+      <last_upd>2021-03-03 20:20:42</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>42337</office_code_a>
+      <office_code_z>61534</office_code_z>
+      <network>tennessee</network>
+      <recno>109</recno>
+      <last_upd>2021-03-03 22:58:00</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>61534</office_code_a>
+      <office_code_z>42337</office_code_z>
+      <network>tennessee</network>
+      <recno>110</recno>
+      <last_upd>2021-03-03 22:58:35</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>21520</office_code_a>
+      <office_code_z>21530</office_code_z>
+      <network>penna</network>
+      <recno>111</recno>
+      <last_upd>2021-03-09 16:49:47</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>21530</office_code_a>
+      <office_code_z>21520</office_code_z>
+      <network>penna</network>
+      <recno>112</recno>
+      <last_upd>2021-03-09 16:50:19</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>52199</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>hh</network>
+      <recno>115</recno>
+      <last_upd>2021-03-11 02:45:39</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>52199</office_code_z>
+      <network>hh</network>
+      <recno>116</recno>
+      <last_upd>2021-03-11 02:46:17</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>52599</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>hh</network>
+      <recno>117</recno>
+      <last_upd>2021-03-11 02:53:20</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>52599</office_code_z>
+      <network>hh</network>
+      <recno>118</recno>
+      <last_upd>2021-03-11 02:53:51</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>52399</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>hh</network>
+      <recno>119</recno>
+      <last_upd>2021-03-11 04:18:20</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>52399</office_code_z>
+      <network>hh</network>
+      <recno>120</recno>
+      <last_upd>2021-03-11 04:19:03</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>81600</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>world</network>
+      <recno>121</recno>
+      <last_upd>2021-07-23 01:55:27</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>81600</office_code_z>
+      <network>world</network>
+      <recno>122</recno>
+      <last_upd>2021-07-23 01:56:17</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>51043</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>sfo</network>
+      <recno>123</recno>
+      <last_upd>2021-07-23 02:19:09</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>51043</office_code_z>
+      <network>sfo</network>
+      <recno>124</recno>
+      <last_upd>2021-07-23 02:19:55</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>71448</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>socal</network>
+      <recno>125</recno>
+      <last_upd>2021-07-25 16:25:25</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>71448</office_code_z>
+      <network>socal</network>
+      <recno>126</recno>
+      <last_upd>2021-07-25 16:26:06</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>54141</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>oregon</network>
+      <recno>127</recno>
+      <last_upd>2022-02-21 01:42:57</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>54141</office_code_z>
+      <network>oregon</network>
+      <recno>128</recno>
+      <last_upd>2022-02-21 01:43:48</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>36083</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>oregon</network>
+      <recno>129</recno>
+      <last_upd>2022-02-21 02:56:31</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>36083</office_code_z>
+      <network>oregon</network>
+      <recno>130</recno>
+      <last_upd>2022-02-21 02:58:01</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>81753</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>aredn</network>
+      <recno>135</recno>
+      <last_upd>2022-02-21 03:09:23</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>81753</office_code_z>
+      <network>aredn</network>
+      <recno>136</recno>
+      <last_upd>2022-02-21 03:10:02</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>84788</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>aredn</network>
+      <recno>137</recno>
+      <last_upd>2022-02-21 03:26:59</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>84788</office_code_z>
+      <network>aredn</network>
+      <recno>138</recno>
+      <last_upd>2022-02-21 03:27:37</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>91942</office_code_a>
+      <office_code_z>91041</office_code_z>
+      <network>world</network>
+      <recno>139</recno>
+      <last_upd>2022-02-21 06:50:13</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>91041</office_code_a>
+      <office_code_z>91942</office_code_z>
+      <network>world</network>
+      <recno>140</recno>
+      <last_upd>2022-02-21 06:50:49</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>53392</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>nj</network>
+      <recno>141</recno>
+      <last_upd>2022-02-21 07:01:07</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>53392</office_code_z>
+      <network>nj</network>
+      <recno>142</recno>
+      <last_upd>2022-02-21 07:01:56</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>81600</office_code_a>
+      <office_code_z>31450</office_code_z>
+      <network>world</network>
+      <recno>143</recno>
+      <last_upd>2022-07-28 03:15:35</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>31450</office_code_a>
+      <office_code_z>81600</office_code_z>
+      <network>world</network>
+      <recno>144</recno>
+      <last_upd>2022-07-28 03:16:27</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>47864</office_code_a>
+      <office_code_z>61534</office_code_z>
+      <network>tenn</network>
+      <recno>145</recno>
+      <last_upd>2022-07-28 03:19:28</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>61534</office_code_a>
+      <office_code_z>47864</office_code_z>
+      <network>tenn</network>
+      <recno>146</recno>
+      <last_upd>2022-07-28 03:20:18</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>54154</office_code_a>
+      <office_code_z>54141</office_code_z>
+      <network>oregon</network>
+      <recno>147</recno>
+      <last_upd>2022-08-23 13:25:00</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>54141</office_code_a>
+      <office_code_z>54154</office_code_z>
+      <network>oregon</network>
+      <recno>148</recno>
+      <last_upd>2022-08-23 13:25:35</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>50310</office_code_a>
+      <office_code_z>54154</office_code_z>
+      <network>oregon</network>
+      <recno>149</recno>
+      <last_upd>2022-07-28 03:25:18</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>54154</office_code_a>
+      <office_code_z>50310</office_code_z>
+      <network>oregon</network>
+      <recno>150</recno>
+      <last_upd>2022-07-28 03:26:03</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>54153</office_code_a>
+      <office_code_z>54154</office_code_z>
+      <network>oregon</network>
+      <recno>151</recno>
+      <last_upd>2022-07-28 03:28:42</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>54154</office_code_a>
+      <office_code_z>54153</office_code_z>
+      <network>oregon</network>
+      <recno>152</recno>
+      <last_upd>2022-07-28 03:29:23</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>94030</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>ntx</network>
+      <recno>153</recno>
+      <last_upd>2022-07-28 03:47:51</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>94030</office_code_z>
+      <network>ntx</network>
+      <recno>154</recno>
+      <last_upd>2022-07-28 03:48:32</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>93714</office_code_a>
+      <office_code_z>93710</office_code_z>
+      <network>mvma</network>
+      <recno>155</recno>
+      <last_upd>2022-08-22 11:01:33</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>93710</office_code_a>
+      <office_code_z>93714</office_code_z>
+      <network>mvma</network>
+      <recno>156</recno>
+      <last_upd>2022-08-22 11:02:17</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>13901</office_code_z>
+      <network>ampr</network>
+      <recno>157</recno>
+      <last_upd>2022-08-24 19:19:59</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>13901</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>ampr</network>
+      <recno>158</recno>
+      <last_upd>2022-08-24 19:20:37</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>50313</office_code_a>
+      <office_code_z>50310</office_code_z>
+      <network>oregon</network>
+      <recno>159</recno>
+      <last_upd>2022-08-27 04:52:24</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>50310</office_code_a>
+      <office_code_z>50313</office_code_z>
+      <network>oregon</network>
+      <recno>160</recno>
+      <last_upd>2022-08-27 04:53:05</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>54141</office_code_a>
+      <office_code_z>50310</office_code_z>
+      <network>oregon</network>
+      <recno>161</recno>
+      <last_upd>2022-08-28 01:59:54</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>50310</office_code_a>
+      <office_code_z>54141</office_code_z>
+      <network>oregon</network>
+      <recno>162</recno>
+      <last_upd>2022-08-28 02:00:36</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>54147</office_code_a>
+      <office_code_z>54141</office_code_z>
+      <network>oregon</network>
+      <recno>163</recno>
+      <last_upd>2022-09-04 23:08:41</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>54141</office_code_a>
+      <office_code_z>54147</office_code_z>
+      <network>oregon</network>
+      <recno>164</recno>
+      <last_upd>2022-09-04 23:09:19</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>31535</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>ampr</network>
+      <recno>165</recno>
+      <last_upd>2022-11-13 00:55:50</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>31535</office_code_z>
+      <network>ampr</network>
+      <recno>166</recno>
+      <last_upd>2022-11-13 00:56:27</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>41557</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>sfo</network>
+      <recno>167</recno>
+      <last_upd>2022-11-13 00:57:08</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>41557</office_code_z>
+      <network>sfo</network>
+      <recno>168</recno>
+      <last_upd>2022-11-13 00:58:05</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>25022</office_code_a>
+      <office_code_z>40351</office_code_z>
+      <network>pnw</network>
+      <recno>169</recno>
+      <last_upd>2022-11-15 06:23:39</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>40351</office_code_a>
+      <office_code_z>25022</office_code_z>
+      <network>pnw</network>
+      <recno>170</recno>
+      <last_upd>2022-11-15 06:24:25</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>50344</office_code_a>
+      <office_code_z>97321</office_code_z>
+      <network>oregon</network>
+      <recno>171</recno>
+      <last_upd>2022-11-20 18:40:11</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>97321</office_code_a>
+      <office_code_z>50344</office_code_z>
+      <network>oregon</network>
+      <recno>172</recno>
+      <last_upd>2022-11-20 18:40:40</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>50344</office_code_a>
+      <office_code_z>54141</office_code_z>
+      <network>oregon</network>
+      <recno>173</recno>
+      <last_upd>2022-11-20 18:41:14</last_upd>
+   </trunks>
+   <trunks>
+      <office_code_a>54141</office_code_a>
+      <office_code_z>50344</office_code_z>
+      <network>oregon</network>
+      <recno>174</recno>
+      <last_upd>2022-11-20 18:41:45</last_upd>
+   </trunks>
+
+   <networks>
+      <network>AREDN</network>
+      <color/>
+      <vlan>2</vlan>
+      <recno>1</recno>
+      <last_upd>2021-10-12 18:23:20</last_upd>
+   </networks>
+   <networks>
+      <network>Tennessee</network>
+      <color>Green</color>
+      <vlan>3</vlan>
+      <recno>2</recno>
+      <last_upd>2021-10-12 18:11:17</last_upd>
+   </networks>
+   <networks>
+      <network>SoCal</network>
+      <color>Blue</color>
+      <vlan>4</vlan>
+      <recno>3</recno>
+      <last_upd>2021-10-12 18:12:53</last_upd>
+   </networks>
+   <networks>
+      <network>MVMA</network>
+      <color>Purple</color>
+      <vlan>5</vlan>
+      <recno>4</recno>
+      <last_upd>2021-10-12 18:14:18</last_upd>
+   </networks>
+   <networks>
+      <network>World</network>
+      <color>Red</color>
+      <vlan>6</vlan>
+      <recno>5</recno>
+      <last_upd>2021-10-12 18:09:22</last_upd>
+   </networks>
+   <networks>
+      <network>OKI</network>
+      <color>Orange</color>
+      <vlan>6</vlan>
+      <recno>6</recno>
+      <last_upd>2021-10-12 18:15:25</last_upd>
+   </networks>
+   <networks>
+      <network>NJ</network>
+      <color>Lime</color>
+      <vlan>7</vlan>
+      <recno>7</recno>
+      <last_upd>2021-10-12 18:17:08</last_upd>
+   </networks>
+   <networks>
+      <network>Utah</network>
+      <color/>
+      <vlan>8</vlan>
+      <recno>8</recno>
+      <last_upd>2021-10-12 18:18:41</last_upd>
+   </networks>
+   <networks>
+      <network>Arizona</network>
+      <color/>
+      <vlan>9</vlan>
+      <recno>9</recno>
+      <last_upd>2021-10-12 18:18:00</last_upd>
+   </networks>
+   <networks>
+      <network>Tidewater</network>
+      <color/>
+      <vlan>10</vlan>
+      <recno>10</recno>
+      <last_upd>2021-10-12 18:16:24</last_upd>
+   </networks>
+   <networks>
+      <network>SRQ</network>
+      <color/>
+      <vlan>11</vlan>
+      <recno>11</recno>
+      <last_upd>2021-10-12 18:19:21</last_upd>
+   </networks>
+   <networks>
+      <network>Wisconsin</network>
+      <color/>
+      <vlan>18</vlan>
+      <recno>12</recno>
+      <last_upd>2021-10-12 18:21:19</last_upd>
+   </networks>
+   <networks>
+      <network>Pennsylvania</network>
+      <color/>
+      <vlan>19</vlan>
+      <recno>13</recno>
+      <last_upd>2021-10-12 18:20:43</last_upd>
+   </networks>
+   <networks>
+      <network>PNW</network>
+      <color/>
+      <vlan>23</vlan>
+      <recno>14</recno>
+      <last_upd>2021-10-12 18:22:00</last_upd>
+   </networks>
+   <networks>
+      <network>SFO</network>
+      <color/>
+      <vlan>22</vlan>
+      <recno>15</recno>
+      <last_upd>2021-10-12 18:22:32</last_upd>
+   </networks>
+   <networks>
+      <network>Oregon</network>
+      <color/>
+      <vlan>20</vlan>
+      <recno>15</recno>
+      <last_upd>2022-02-21 01:37:24</last_upd>
+   </networks>
+   <networks>
+      <network>NTX</network>
+      <color/>
+      <vlan>16</vlan>
+      <recno>16</recno>
+      <last_upd>2022-03-12 02:01:30</last_upd>
+   </networks>
+</meshphone>

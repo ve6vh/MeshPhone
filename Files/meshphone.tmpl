@@ -1,0 +1,52 @@
+#
+# Template to generate meshphone fields. Each entry contains a
+# match field, and a prototype field, separated by '=>'.
+# The match field is tested against the translated code for
+# each dialplan entry. If a match occurs, then the prototype
+# field is evaluated and emitted. Only the number of characters
+# in the match field are evaluated, hence 2044 matches 2044xxx.
+# String substitution fields in the prototype contain a % + one character.
+# %x emits exten => <xlated code>
+# %u emits the time stamp
+# %T emits the EOF marker
+##################################################################################
+#
+# Specified routes to local trunks or other dialplans. Modify to suit your
+# installation here. All template matching data MUST be numeric, no
+# asterisk shorthand is currently supported.
+#
+2044=>%x,1,Dial(IAX2/ve4drk_i/${EXTEN:3:4})		;VE4DRK Manitoba
+2046=>%x,1,Dial(IAX2/ve4drk_i/${EXTEN:3:4})		;VE4DRK Manitoba
+250229=>%x,1,Goto(LocalSets_250,${EXTEN:3},1)	;intercepted codes
+25022=>%x,1,Dial(IAX2/kt-pbxsrv_meshphone/${EXTEN:3:4}) ;Mid-island network
+#
+# this and hosted PBX codes
+#
+25054=>%x,1,Goto(LocalSets_250,${EXTEN:3},1)	;BC mainland and interior
+4035=>%x,Goto(LocalSets,${EXTEN:3},1)			;local extensions on this PBX
+4065=>%x,1,Goto(LocalSets_406,${EXTEN:3},1)		;Montana
+#
+# network numbers decoded and routed locally
+#
+5551212=>%x,Goto(LocalSets,5101,1)				;Information
+#
+##################################################################################
+#
+# Default route. Mutually exclusive to all specified routes. If no match is found
+# then this one is adopted. NNN matches any digit 0-9.
+#
+NNN=>%x,1,Dial(IAX2/n2mh_m/${EXTEN})		;Last updated %u
+#
+##################################################################################
+#
+# The following is added after either a specific or default route. XXX matches
+# all area codes and templates.
+#
+XXX=>%x,n,Goto(Utilities,Sorry,1)		; %n
+#
+##################################################################################
+#
+# End of file default. Added at the end.
+#
+EOF=>%T,1,Goto(Utilities,Sorry,1)		; %n
+#
